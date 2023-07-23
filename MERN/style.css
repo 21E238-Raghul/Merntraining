@@ -1,0 +1,42 @@
+body{
+    font-family: Verdana;
+}
+header,footer{
+    position: relative;
+    background-color:black;
+    width: 100%;
+    color: antiquewhite;
+}
+header{
+    height: 10vh;
+}
+header h2{
+    position: relative;
+    color: green;
+    left: 20%;
+    top: 13px;
+    
+}
+footer{
+    height: 10vh;
+    bottom: 0;
+}
+footer h4{
+    position: absolute;
+    bottom: 14px;
+    left: 45%;
+}
+
+div.str{
+    position: absolute;
+    left: 72%;
+    top: 15px;
+    color:white;
+    text-decoration: none;
+}
+footer p{
+position: absolute;
+left: 47%;
+bottom: 1px;
+color: lightblue;
+}
